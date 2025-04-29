@@ -1,11 +1,16 @@
 _repo: Cursed-be-the-treasure_75790
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75790-h/images/cover.jpg
 creator:
   author:
     agent_name: Drake, Henry Burgess
     gutenberg_agent_id: '58145'
     url: http://www.gutenberg.org/2009/agents/58145
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75790#Cursed-be-the-treasure
 gutenberg_issued: '2025-04-04'
 gutenberg_type: Text
 identifiers:
